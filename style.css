@@ -1,8 +1,13 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    
+    background-image: url('/images/test2.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position:center
 }
+
 
 #challenger-choice {
     width: 260px;
