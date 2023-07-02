@@ -8,17 +8,15 @@ body {
     background-position:center
 }
 
-
 #challenger-choice {
-    width: 260px;
+    width: 280px;
     height: 230px;
     background-color: rgb(249, 88, 120);
-    margin-top: 10px;
-
+    margin-top: 10px; 
 }
 
 #your-choice {
-    width: 260px;
+    width: 280px;
     height: 230px;
     background-color:rgb(129, 229, 129);
     margin-top: 10px;
@@ -27,9 +25,9 @@ body {
 }
 
 #choices {
-    width: 260px;
+    width: 280px;
     height: 80px;
-    background-color:rgb(138, 138, 138);
+    background-color:rgb(235, 235, 235);
     margin-top: 10px;
     margin: 0 auto;
 }
