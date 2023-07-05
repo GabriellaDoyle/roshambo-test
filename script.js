@@ -50,7 +50,6 @@ function selectChoice() {
             }
         }
     }
-    }
-
-    document.getElementById("your-score").innerText = yourScore;
+};
+   document.getElementById("your-score").innerText = yourScore;
     document.getElementById("challenger-score").innerText = challengerScore;
